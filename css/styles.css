@@ -1,0 +1,75 @@
+html{
+    width: 100vw;
+    font-family:" Noto Sans Warang Citi",sans-serif;
+    
+
+}
+body{
+    
+    background-color: blanchedalmond;
+    
+}
+header{
+    margin:10
+   
+}
+header  img{
+    width: 100vw;
+    height:60px;
+}
+section nav{
+    width: 30vw;
+    color: aliceblue;
+    display: block;
+    float: left;
+    
+    
+    
+}
+nav li{
+    
+    border-radius: 10px;
+    border: 2px solid #fff;
+    margin-bottom: 2px;
+    padding: 5px;
+    background-color: rgb(250, 191, 103);
+}
+li:hover{
+    background-color: rgb(248, 174, 63);
+}
+a{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-decoration:none;
+}
+
+
+ section article{
+    background-color: rgb(245, 201, 134);
+    width: 65vw;
+    display: block;
+    float: left;
+    
+    
+}
+footer{
+    margin: 0;
+    text-align: center;
+    width: 100vw;
+    display: block;
+    float: left;
+    background-color: rgb(250, 191, 103);
+}
+section{
+    margin: 20px;
+}
+
+p{
+font-size: 1.2rem;
+    padding:10px;
+}
+h2,h3,h4{
+    padding: 10px;
+    font-weight: bolder;
+    font-size: 1.4rem;
+}
